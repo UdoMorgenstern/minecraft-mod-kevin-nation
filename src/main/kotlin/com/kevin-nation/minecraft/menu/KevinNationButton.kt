@@ -37,7 +37,7 @@ class KevinNationButton(
 
     val widget = object: ImageButton(
         (gui.width - w) / 2,
-        gui.height / 2 - w, w, w, 0, 0, 0, texture, w, w,
+        gui.height / 3 - w, w, w, 0, 0, 0, texture, w, w,
         this, this, "Kevin Nation".component
     ) {
         override fun renderButton(matrixStack: MatrixStack, mouseX: Int, mouseY: Int, partialTicks: Float) {

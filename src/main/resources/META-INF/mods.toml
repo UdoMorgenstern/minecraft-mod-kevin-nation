@@ -10,7 +10,7 @@ modId="kevin-nation"
 version="${file.jarVersion}"
 displayName="Kevin Nation Mod"
 credits="All hail the all mighty Joob"
-authors="Savvas Dalkitsis"
+authors="Savvas Dalkitsis, Udo Morgenstern"
 description='''
 A custom mod for the kevin nation minecraft server
 '''

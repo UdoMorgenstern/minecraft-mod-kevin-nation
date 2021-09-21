@@ -15,7 +15,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'kotlin'
 
-version = '1.0.3'
+version = '1.0.4'
 group = 'com.kevin_nation.minecrafft'
 archivesBaseName = 'kevin_nation'
 

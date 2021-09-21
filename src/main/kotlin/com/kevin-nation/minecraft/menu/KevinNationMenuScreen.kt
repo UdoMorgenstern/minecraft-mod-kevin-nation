@@ -14,7 +14,6 @@ class KevinNationMenuScreen : MainMenuScreen() {
     private val background = ResourceLocation(guiTexture("background"))
     private val titleImage = ResourceLocation(guiTexture("title"))
     private val buttonKeysToRemove = listOf(
-        "menu.singleplayer",
         "menu.multiplayer",
         "menu.online",
     )
